@@ -24,8 +24,7 @@ This repo is for learning the **dirty, quick, and effective** way of getting wha
 Use it to:
 - 🔍 Practice DOM traversal like a web ninja
 - 🚀 Get fundamental hands-on with Cheerio selectors
-- 🧠 Understand HTTP requests in Node
-- 💡 Build muscle memory for scraping before you hit the real stuff (like Puppeteer, Playwright, or Selenium Hell™)
+- 🧠 Understand HTTP requests in Nodejs and use of axios
 
 ---
 
